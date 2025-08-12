@@ -24,7 +24,7 @@ Four strategies were tested for identifiying reviews:
 
 ## Result
 
-Overall, only about a quarter of the reviews from Scopus can be identified using the selected strategies. Most reviews are recognised using strategy 1 (The word "Review" appears in the title or abstract of a publication). A total of 144.546 items (26%) can be identified using this method. However, this strategy, as well as strategies 2 and 4, could potentially misclassify many research articles and other items in OpenAlex, as shown in Table 1. Here, the strategy 3 (A specific regular expression appears in the title or abstract of a publication.) is more precise (see also the sample analyses and Table 2). Note that about 52% (285,753) of the reviews included in this analysis do not contain an abstract, which makes it difficult to identify reviews.
+Overall, only about a quarter of the reviews from Scopus can be identified using the selected strategies. Most reviews are recognised using strategy 1 (The word "Review" appears in the title or abstract of a publication). A total of 144.546 items (26%) can be identified using this method. However, this strategy, as well as strategies 2 and 4, could potentially misclassify many research articles and other items in OpenAlex, as shown in Table 1. Here, the strategy 3 (A specific regular expression appears in the title or abstract of a publication.) is more precise (see also the sample analyses and Table 2). Note that about 52% (285,753) of the reviews included in this analysis lack an abstract in OpenAlex, which makes it difficult to identify reviews.
 
 <figure>
     <img src="media/review_classification.png" width="80%" />
