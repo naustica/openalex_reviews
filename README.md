@@ -69,3 +69,10 @@ Overall, only about a quarter of the reviews from Scopus can be identified using
 | 1246	 | article	 | -> Short Survey     |
 | 56     | article	 | -> Tombstone        |
 
+## Appendix
+
+Regular expression: 
+
+abstract ~ '(\sthis\s|systematic\s|umbrella\s|bibliographic\s|literature\s|scoping\s|comprehensive\s|mini-)review'
+title ~ '(\sa\s|systematic\s|umbrella\s|bibliographic\s|literature\s|scoping\s|comprehensive\s|mini-)review'
+
