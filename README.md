@@ -29,13 +29,13 @@ Overall, only about a quarter of the reviews from Scopus can be identified using
 <figure>
     <img src="media/review_classification.png" width="80%" />
     <figcaption>
-        <b>Fig.1:</b>Comparison of different strategies for identifying reviews. Only items with the document type 'article' in OpenAlex and the type 'Review' in Scopus are considered. 
+        <b>Fig.1: </b>Comparison of different strategies for identifying reviews. Only items with the document type 'article' in OpenAlex and the type 'Review' in Scopus are considered. 
     </figcaption>
 </figure>
 
 <p></p>
 
-<b>Tab.1:</b>Items included in OpenAlex that would be classified as reviews according to strategy 2 and the corresponding document types in Scopus. 
+<b>Tab.1: </b>Items included in OpenAlex that would be classified as reviews according to strategy 2 and the corresponding document types in Scopus. 
 
 | n	     | oal_type	 |  scp_type           |
 |--------|-----------|---------------------|
@@ -53,7 +53,7 @@ Overall, only about a quarter of the reviews from Scopus can be identified using
 | 2489	 | article	 | -> Short Survey     |
 | 238	 | article	 | -> Tombstone        |
 
-<b>Tab.2:</b>Items included in OpenAlex that would be classified as reviews according to strategy 3 and the corresponding document types in Scopus. 
+<b>Tab.2: </b>Items included in OpenAlex that would be classified as reviews according to strategy 3 and the corresponding document types in Scopus. 
 
 | n	     | oal_type	 |  scp_type           |
 |--------|-----------|---------------------|
