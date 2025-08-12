@@ -1,6 +1,6 @@
 # Identifying Reviews in OpenAlex
 
-This repository contains a short analysis of reviews in OpenAlex. 
+This repository contains a short analysis on identifying reviews in OpenAlex. 
 
 ## Data
 
